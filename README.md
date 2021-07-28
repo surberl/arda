@@ -1,2 +1,1 @@
-# arda: Repository of Luke Surber
-Here's my scripts.
+# Arda: Repository of Luke Surber
